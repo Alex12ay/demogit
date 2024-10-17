@@ -1,6 +1,6 @@
-let nombre = 6;
 
-function DoubleNombre {
-    let resultat = nombre x 2;
+function DoubleNombre() {
+    let nombre = 6;
+    return resultat = nombre * 2;
 }
 
